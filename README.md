@@ -28,7 +28,7 @@ Repo này tổng hợp một số dự án nhỏ về **Trí tuệ nhân tạo (
 ---
 
 ## 🛠 Công nghệ sử dụng
-- Python 3.9+
+- Python 3.1+
 - Scikit-learn
 - Pandas, NumPy
 - Matplotlib, Seaborn
